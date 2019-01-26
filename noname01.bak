@@ -1,6 +1,6 @@
 
 
-program hello:
+program hello;
 
 begin
    writeln ("hello world" )
