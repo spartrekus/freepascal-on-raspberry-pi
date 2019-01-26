@@ -1,12 +1,12 @@
 # freepascal-on-raspberry-pi
 
 
-# On Linux
+## On Linux
 
 > apt-get install fp-ide
 
 
-# On FreeBSD
+## On FreeBSD
 
 > pkg install editors/fpc-ide
 
